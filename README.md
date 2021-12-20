@@ -20,3 +20,18 @@ Librarys used:
 - SPI library
 - RF24 library
 
+
+Utilized ESP32 Pins
+--------------------------------------------------------------------------------------
+- Button A - Pin 32
+- Button B - Pin 34
+- Button Master - Pin 35
+- Neopixel LED Strip - Pin 25
+- Buzzer - Pin 18
+- SCL - Pin 22
+- SDA - Pin 21
+- MOSI - Pin 23  
+- MISO - Pin 19
+- CE - 12
+- CSS - 5
+
